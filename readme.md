@@ -1,8 +1,7 @@
 # JavaScript Learning Path
 
-Based on https://roadmap.sh/javascript.
 
-## Beginner Topics
+## Topics
 ### Introduction to JavaScript
 - What is JavaScript
 - History of JavaScript
