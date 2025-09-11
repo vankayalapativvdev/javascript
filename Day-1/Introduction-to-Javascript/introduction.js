@@ -37,5 +37,3 @@ let srikanth = "2021"; // mutable
 srikanth = "Srikanth Reddy";
 
 // console.log(srikanth)
-
-
