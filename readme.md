@@ -1,25 +1,28 @@
 # JavaScript Learning Path
 
-
 ## Topics
+
 ### Introduction to JavaScript
+
 - What is JavaScript
 - History of JavaScript
 - JavaScript Versions
 - How to run JavaScript
 
 ### Variable Declarations
-- Hoisting
+
+- \*Hoisting
 - Variable Naming Rules
 - Variable Scopes
   - var
   - let
   - const
-  - Block
-  - Function
-  - Global
+  - \*Block
+  - \*Function
+  - \*Global
 
 ### All about Variables
+
 - Data Types
   - string
   - undefined
@@ -27,7 +30,7 @@
   - bigint
   - boolean
   - null
-  - Symbol
+  - \*Symbol
 - Primitive Types
 - Object
 - Object Prototype
@@ -40,6 +43,7 @@
   - Implicit Type Casting
 
 ### Data Structures
+
 - Keyed Collections
   - Map
   - Weak Map
@@ -52,6 +56,7 @@
   - JSON
 
 ### Equality Comparisons
+
 - ==
 - ===
 - Object.is
@@ -63,6 +68,7 @@
 - Equality Algorithms
 
 ### Loops and Iterations
+
 - for
 - do...while
 - while
@@ -71,6 +77,7 @@
 - break / continue
 
 ### Control Flow
+
 - Exceptional Handling
   - Conditional Statements
     - if...else
@@ -80,6 +87,7 @@
   - Error Objects
 
 ### Expressions & Operators
+
 - Assignment Operators
 - Comparison Operators
 - Arithmetic Operators
@@ -92,7 +100,9 @@
 - Unary Operators
 
 ## Intermediate Topics
+
 ### Functions
+
 - Function Parameters
 - Arrow Functions
 - IIFEs
@@ -118,6 +128,7 @@
   - bind
 
 ### Asynchronous JavaScript
+
 - Event Loop
 - setTimeout
 - setInterval
@@ -130,13 +141,16 @@
   - XMLHTTPRequest
 
 ### Classes
+
 - Iterators and Generators
 - Modules in JavaScript
   - CommonJS
   - ESM
 
 ## Advanced Topics
+
 ### Memory Management
+
 - Memory Lifecycle
 - DOM APIs
 - Garbage Collection
@@ -147,6 +161,7 @@
   - Debugging Performance
 
 ## Related Topics
+
 - React
 - Node.js
 - SameValue
